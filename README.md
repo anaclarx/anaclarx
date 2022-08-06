@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anaclarx
-- 👀 I’m interested in devoloping techlogies that can improve the day-to-day for at least some people. 
-I wanna know and study how technology and it resources can change the world.
+- 👀 I’m interested in devoloping techlogies that can improve the day-to-day life for at least some people. 
+I wanna learn how technology and tech resources can change the world.
 - 🌱 I’m currently learning Swift and IOS development, but im open to study and get to know different areas of study.
 - 💞️ I’m looking to collaborate on projects developing and studying quantumm computers and technologies that work in the medical field.
 - 📫 How to reach me: Send me an e-mail: anaclaragranato@gmail.com!
