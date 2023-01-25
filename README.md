@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anaclarx
-- 👀 I’m interested in devoloping innovative technologies and improve my coding skills. 
+- 👀 I’m interested in developing innovative technologies and improve my coding skills. 
 I wanna learn how technology and tech resources can change the real world.
 - 🌱 I’m currently at my second year @Ecole des Mines de Saint-Etinne majoring in Computer Science.
 - 💞️ I’m looking to collaborate on real life projects and work in multi-cultural teams.
